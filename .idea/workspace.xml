@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7e0e3a1-9fb0-4f8f-8cec-ca2cb6338826" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-Black.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-BlackItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-BoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-ExtraBold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-ExtraBoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-ExtraLight.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-ExtraLightItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-Italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-LightItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-Medium.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-MediumItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-SemiBold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-SemiBoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-Thin.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Fira Sans/FiraSans-ThinItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676390908677</updated>
-      <workItem from="1676390910717" duration="2014000" />
+      <workItem from="1676390910717" duration="2888000" />
     </task>
     <servers />
   </component>
