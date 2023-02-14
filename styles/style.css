@@ -1,0 +1,55 @@
+html {
+	box-sizing: border-box;
+	}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+	margin:     0;
+	padding:    0;
+	}
+
+body {
+	font-family: "Fira Sans", sans-serif;
+	max-width:   1360px;
+	margin:      0 auto;
+	background:  #f4f4f4;
+	}
+
+.header {
+	width:  1110px;
+	margin: 0 auto;
+	}
+
+button {
+	display:    block;
+	border:     0;
+	background: transparent;
+	}
+
+button.menu {
+	margin-left: auto;
+	border:      0;
+	}
+
+.header {
+	}
+
+.nav {
+	}
+
+.container {
+	}
+
+.row {
+	}
+
+.logo {
+	}
+
+.search {
+	}
+
+.menu {
+	}
