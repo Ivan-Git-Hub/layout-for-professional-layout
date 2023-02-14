@@ -18,8 +18,9 @@ body {
 	}
 
 .header {
-	width:  1110px;
-	margin: 0 auto;
+	width:   1110px;
+	margin:  0 auto;
+	padding: 59px 0 0 0;
 	}
 
 button {
@@ -33,16 +34,14 @@ button.menu {
 	border:      0;
 	}
 
-.header {
+.row {
+	align-items: center;
 	}
 
 .nav {
 	}
 
 .container {
-	}
-
-.row {
 	}
 
 .logo {
